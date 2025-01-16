@@ -5,7 +5,7 @@
       - Tableau
 - 💞️ I’m looking to collaborate on Deep Learning Projects
 - Pronouns: she/her
-- How to reach meL aneesha.257@gmail.com
+
 
 <!---
 anam257/anam257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
